@@ -4,6 +4,8 @@
 
 RSS 소스를 모아 한 화면에서 훑어보는 개인용 IT/개발 뉴스 허브. 더 큰 워크 대시보드의 뉴스 위젯으로 편입될 수 있게 모듈형으로 설계.
 
+![LeLeNews 대시보드](docs/screenshot.png)
+
 ## 스택
 
 - Next.js 14 (App Router) · React 18 · TypeScript
